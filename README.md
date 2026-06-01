@@ -59,7 +59,8 @@ The PCB can be manufactured using the included Gerber files:
 
 ## 📸 PCB Preview
 
-![PCB Preview](image.png)
+![TypeCHub PCB](PCB-Top.png)
+![TypeCHub PCB](PCB-Bottom.png)
 
 ---
 
