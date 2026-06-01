@@ -101,14 +101,6 @@ Current focus:
 
 ---
 
-## 📜 License
-
-This project is open-source.
-
-Feel free to study, modify, and improve the design.
-
----
-
 ## 👤 Author
 
 Created by **Braxton (TheRealBrax)**
