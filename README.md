@@ -2,7 +2,7 @@
 
 A compact USB hub PCB designed from scratch in EasyEDA.
 
-![TypeCHub PCB](image.png)
+![TypeCHub PCB](PCB-Top.png)
 
 ---
 
