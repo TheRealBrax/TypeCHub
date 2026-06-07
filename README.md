@@ -4,14 +4,10 @@ TypeCHub is a custom USB hub PCB designed in EasyEDA. The goal of this project w
 
 "TypeCHub PCB" (PCB-Top.png)
 
-Features
+it has
 
 - USB hub controller
-- USB-C connectivity
-- Compact PCB design
-- EasyEDA Pro project files
-- Gerber files for manufacturing
-- BOM and Pick & Place files
+- USB-C ports
 
 Files
 
