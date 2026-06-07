@@ -1,95 +1,62 @@
-# TypeCHub
+# The TypeCHub
 
-![PCB Top](PCB-Top.png)
+Get more Type-C ports on your PC!
 
-TypeCHub is a custom USB hub PCB designed in EasyEDA...
+## Description
 
-TypeCHub
+An in-depth paragraph about your project and overview of use.
 
-TypeCHub is a custom USB hub PCB designed in EasyEDA. This project was created to learn PCB design, USB routing, and the process of taking a board from schematic to manufacturing.
+## Getting Started
 
-PCB Preview
+### Dependencies
 
-Top Layer
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* ex. Windows 10
 
-"PCB Top" (PCB-Top.png)
+### Installing
 
-Bottom Layer
+* How/where to download your program
+* Any modifications needed to be made to files/folders
 
-"PCB Bottom" (PCB-Bottom.png)
+### Executing program
 
-Features
+* How to run the program
+* Step-by-step bullets
+```
+code blocks for commands
+```
 
-- USB hub controller
-- USB-C connectivity
-- Compact PCB layout
-- EasyEDA Pro source files
-- Manufacturing files included
-- BOM and Pick & Place files included
+## Help
 
-Repository Contents
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
 
-File| Description
-"PCB-Top.png"| Top side PCB render
-"PCB-Bottom.png"| Bottom side PCB render
-"SCH_Schematic1_2026-05-31.pdf"| Schematic PDF
-"BOM_Board1_PCB1_2026-05-31.xlsx"| Bill of Materials
-"PickAndPlace_PCB1_2026-05-31.xlsx"| Pick & Place file
-"TypeCHub(Gerber).zip"| Gerber manufacturing files
-"ProPrj_USB Hub_2026-05-31.epro"| EasyEDA Pro project
-"README.md"| Project documentation
+## Authors
 
-Manufacturing
+Contributors names and contact info
 
-To order the PCB:
+ex. Dominique Pizzie  
+ex. [@DomPizzie](https://twitter.com/dompizzie)
 
-1. Download "TypeCHub(Gerber).zip"
-2. Upload the file to your preferred PCB manufacturer
-3. Review the board preview
-4. Submit your order
+## Version History
 
-Project Status
+* 0.2
+    * Various bug fixes and optimizations
+    * See [commit change]() or See [release history]()
+* 0.1
+    * Initial Release
 
-Current Status: Prototype Revision 1
+## License
 
-Planned Improvements
+This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
-- Prototype assembly
-- Functional testing
-- Design verification
-- Future board revisions
+## Acknowledgments
 
-Software Used
-
-- EasyEDA Pro
-- GitHub
-
-Author
-
-Braxton (TheRealBrax)
-
-Designed as a personal hardware project to learn PCB design and USB hardware development. PCB render
-"SCH_Schematic1_2026-05-31.pdf"| Schematic
-"BOM_Board1_PCB1_2026-05-31.xlsx"| Bill of Materials
-"PickAndPlace_PCB1_2026-05-31.xlsx"| Pick & Place file
-"TypeCHub(Gerber).zip"| Gerber files
-"ProPrj_USB Hub_2026-05-31.epro"| EasyEDA Pro project
-
-Manufacturing
-
-The included Gerber files can be uploaded to any PCB manufacturer for fabrication.
-
-Project Status
-
-This project is currently being tested and refined. Future updates may include hardware revisions and additional documentation.
-
-Software Used
-
-- EasyEDA Pro
-- GitHub
-
-Author
-
-Braxton (TheRealBrax)
-
-GitHub: https://github.com/TheRealBrax
+Inspiration, code snippets, etc.
+* [awesome-readme](https://github.com/matiassingers/awesome-readme)
+* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
+* [dbader](https://github.com/dbader/readme-template)
+* [zenorocha](https://gist.github.com/zenorocha/4526327)
+* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
