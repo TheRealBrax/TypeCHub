@@ -1,3 +1,9 @@
+# TypeCHub
+
+![PCB Top](PCB-Top.png)
+
+TypeCHub is a custom USB hub PCB designed in EasyEDA...
+
 TypeCHub
 
 TypeCHub is a custom USB hub PCB designed in EasyEDA. The goal of this project was to learn more about USB hardware,and PCB Design.
