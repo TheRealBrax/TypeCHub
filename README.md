@@ -9,4 +9,5 @@ The Type C Hub is a device. If you run out of Type-C ports on your computer, no 
 ## Author
 
 Braxton Marx  
-[@BraxtonMarx](https://www.instagram.com/braxtonmarx/)
+Insta:[@BraxtonMarx](https://www.instagram.com/braxtonmarx/)
+Github:[@TheRealBrax](https://github.com/TheRealBrax)
