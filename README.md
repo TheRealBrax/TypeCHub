@@ -53,8 +53,8 @@ For issues or questions, please contact me
 ## Author
 
 **Braxton Marx**  
-📸 Instagram: [@BraxtonMarx](https://www.instagram.com/braxtonmarx/)  
-🐙 GitHub: [@TheRealBrax](https://github.com/TheRealBrax)
+ Instagram: [@BraxtonMarx](https://www.instagram.com/braxtonmarx/)  
+ GitHub: [@TheRealBrax](https://github.com/TheRealBrax)
 
 ## Changelog
 
