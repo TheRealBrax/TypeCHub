@@ -4,7 +4,7 @@ Easy to use USB Type-C hub! Get 3 more Type-C ports!!!
 
 ## Overview
 
-The TypeCHub is compact to help solve the problem of port limitatations on devices. You can do what ever normal typec ports do charging, transferring data, or connecting peripherals.
+The TypeCHub is compact to help solve the problem of port limitations on devices. You can do whatever normal typec ports do charging, transferring data, or connecting peripherals.
 
 ## Design
 
@@ -18,17 +18,17 @@ The TypeCHub is compact to help solve the problem of port limitatations on devic
 
 ## Features
 
-- **3 more Type-C Ports** - Get more type C ports so you can plug more things into your PC!
-- **Plug-and-Play** - You dont need drivers to use
+- **3 more Type-C Ports** - Get more Type-C ports so you can plug more things into your PC!
+- **Plug-and-Play** - You don't need drivers to use
 - **Compatibility** - Works with laptops, tablets, and other devices with USB-C ports.
 
 ## Getting Started
 
 ### Installation
 
-1. Find a available USB Type-C port on your device
+1. Find an available USB Type-C port on your device
 2. Plug a USB-C cable into the hub and computer
-4. then start using your 3 new Type-C ports
+4. Then start using your 3 new Type-C ports
 
 
 ## Technical Specifications
@@ -48,7 +48,7 @@ The TypeCHub is compact to help solve the problem of port limitatations on devic
 
 ## Support
 
-For issues, or questions, please contact Me
+For issues or questions, please contact me
 
 ## Author
 
