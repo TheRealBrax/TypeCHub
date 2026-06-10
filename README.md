@@ -59,7 +59,8 @@ For issues or questions, please contact me
 ## Changelog
 
 ### Version 1.1
-- Made the connors more rounded on the pcb
+- Made the PCB more rounded
+- Forgot to update the version # on the bottom of the PCB
 
 ### Version 1.0
 - Initial release of TypeCHub
