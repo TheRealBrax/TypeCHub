@@ -11,10 +11,10 @@ The TypeCHub is compact to help solve the problem of port limitations on devices
 ### PCB Layout
 
 **Top Side:**
-![PCB Top](PCB-Top.png)
+![PCB Top](PCB/PCB-Top.png)
 
 **Bottom Side:**
-![PCB Bottom](PCB-Bottom.png)
+![PCB Bottom](PCB/PCB-Bottom.png)
 
 ## Features
 
