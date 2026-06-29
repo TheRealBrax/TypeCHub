@@ -62,7 +62,7 @@ The TypeCHub is compact to help solve the problem of port limitations on devices
 
 The board was quoted through JLCPCB.
 
-![JLCPCB Cart](images/jlcpcb-cart.png)
+![JLCPCB Cart](JLCPCB.png)
 
 
 ## Support
