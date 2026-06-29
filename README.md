@@ -46,7 +46,7 @@ The TypeCHub is compact to help solve the problem of port limitations on devices
 - Keep the hub in a cool, dry location
 - Avoid excessive bending of cables
 
-##Bill of Materials
+## Bill of Materials
 
 | Item | Qty | Unit Cost | Total |
 |------|----:|----------:|------:|
