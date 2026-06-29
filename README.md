@@ -46,15 +46,18 @@ The TypeCHub is compact to help solve the problem of port limitations on devices
 - Keep the hub in a cool, dry location
 - Avoid excessive bending of cables
 
-Bill of Materials
-Item	Qty	Unit Cost	Total
-USB Type-C 16-pin Connector	5	$0.1613	$0.8063
-SL2.1s USB Hub Controller	1	$1.2475	$1.2475
-5.1kΩ Resistors	10	$0.0040	$0.0400
-100nF Capacitors	3	$0.0236	$0.0708
-1µF Capacitors	8	$0.0280	$0.2240
-PCB (2 assembled boards)	2	$11.365	$22.73
-Project Total (before shipping)			$24.89
+##Bill of Materials
+
+| Iteam | Qty | Unit | Cost | Total |
+|---|---|---|---|---|
+| **USB Type-C 16-pin Connector** | 5 | $0.1613 | $0.8063 | 
+| **SL2.1s USB Hub Controller** | 1 | $1.247 | $1.2475 | 
+| **5.1kΩ Resistors** | 10 | $0.0040 | $0.0040 | 
+| **100nF Capacitors** | 3 | $0.0236 | $0.0708 | 
+| **1µF Capacitors** | 8 | $0.0280 | $0.2240 | 
+| **PCB (2 assembled boards)** | 2 | $11.365 | $22.73 | 
+| **Project Total (before shipping** | $24.89 |
+
 
 ## Manufacturing Cost
 
